@@ -22,5 +22,5 @@ bility of the scheduling interface while better supporting the daily
 workflows of students and staff.
 
 Figma demo can be found:
-- [Mobile Version]([https://www.figma.com/files/team/1174277104360797854/project/73350125/Team-project?fuid=1174277091036163298](https://www.figma.com/design/NzTzfeBdnHNqjJAfy6e8r6/FRI-Urnik?t=JZYhKmeWl0CFcPjJ-1)),
+- [Mobile Version](https://www.figma.com/design/NzTzfeBdnHNqjJAfy6e8r6/FRI-Urnik?t=JZYhKmeWl0CFcPjJ-1),
 - [Desktop Version](https://www.figma.com/design/b0x2bD9qGGQORI0PtIJAfp/FRI-urnik-desktop?node-id=0-1&t=GSeWB5YKEb6K7ze3-1).
